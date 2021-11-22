@@ -1,0 +1,8 @@
+1.first installed mongodb software in machine.
+2.open powershell and type mongo.
+3.there is having one path wich is copied and open mongodb clicked on connect and paste it.
+4.in powershell type show connetion and also (db.user.insert({})) using this thing added one object;here we also added one or more file using some commands(db.insertOne({}))
+5.here I also added whole data of json file and imported it.
+6.Here we also update data using(db.user.upadte); for one update(db.user.upadteOne) and also many updation we use(db.user.upadteMany);
+7.also we delete one and more file using(db.deleteOne({}))id for one.(db.deleteAll({}))for all files;
+8.here we also delete all database using one command(db.dropDatabase()).
